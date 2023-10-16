@@ -1,2 +1,2 @@
-# html
-html is the standard markup language
+# HTML
+HTML is the standard markup language
